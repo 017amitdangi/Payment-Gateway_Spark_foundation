@@ -1,8 +1,7 @@
 # Developer - Amit dangi
 
 # Task
-> Payment Gateway Integration - https://ravigithub19.github.io/payment_gateway_integration/
-
+> Payment Gateway Integration -(https://github.com/017amitdangi/Payment-Gateway_Spark_foundation.git)
 ## Table of contents
 * Homepage
 * Payment Gateway Interface
